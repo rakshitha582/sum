@@ -1,1 +1,2 @@
 print("sum")
+print("add")
